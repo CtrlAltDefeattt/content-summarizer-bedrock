@@ -19,7 +19,7 @@ This project implements an AI-powered content summarizer using Amazon Bedrock an
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/content-summarizer-bedrock
+git clone https://github.com/CtrlAltDefeattt/content-summarizer-bedrock
 cd content-summarizer-bedrock
 Install Dependencies
 pip install -r requirements.txt
