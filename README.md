@@ -61,3 +61,6 @@ Paste:
 __pycache__/
 *.pyc
 venv/
+## Screenshots
+<img width="1914" height="1026" alt="Screenshot 2025-11-27 195049" src="https://github.com/user-attachments/assets/07aedf0b-2604-43c0-b1c4-8a794bb24e20" />
+<img width="1915" height="964" alt="Screenshot 2025-11-27 195110" src="https://github.com/user-attachments/assets/7e5d5bfe-6abb-4166-b92c-ca546aa1ae5d" />
